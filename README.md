@@ -15,7 +15,3 @@
 
 ### 📫 Contact
 - Email: xuzhong_wang@foxmail.com
-
-
-![Xuzhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuzhong-wang&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuzhong-wang&layout=compact&theme=tokyonight)
